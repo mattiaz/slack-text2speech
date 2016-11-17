@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@slack/client": "^3.6.1",
+    "google-tts-api": "0.0.1",
+    "https": "^1.0.0",
+    "lame": "^1.2.4",
+    "speaker": "^0.3.0"
+  }
+}
